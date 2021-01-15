@@ -1,2 +1,5 @@
-# LaLaTalk
-라라의 전용 채팅방
+# LaLaTalk ver 1.0.0
+===============
+
+## Windows 다운로드(x86)
+
