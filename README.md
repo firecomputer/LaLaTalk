@@ -15,6 +15,6 @@ Being new to this app, you can use LaLaTalk perfectly.
 [latest_release(1.0.0)](https://github.com/firecomputer/LaLaTalk/raw/main/lalatalk_setup.msi)
 
 ## Features
--Simple server is available for free
--Unique nickname to express yourself
--Chat with other people
+- Simple server is available for free
+- Unique nickname to express yourself
+- Chat with other people
