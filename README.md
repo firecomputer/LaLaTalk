@@ -1,6 +1,6 @@
 <img src="image/LaLaTalk.png" align="middle" height="300"/>
 
-# LaLaTalk ver 1.0.0
+# LaLaTalk
 [![license badge](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 LaLaTalk is asynchronous multi chat platform to talk with LaLa's fans and subscribers.
