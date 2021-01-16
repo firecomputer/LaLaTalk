@@ -12,7 +12,8 @@ Being new to this app, you can use LaLaTalk perfectly.
 이 앱을 처음 사용하더라도, 라라톡을 완벽하게 사용할 수 있습니다.
 
 ## Windows download(x86)
-[latest_release(1.0.0)](https://github.com/firecomputer/LaLaTalk/raw/main/lalatalk_setup.msi)
+[latest_release(1.1.0)](https://github.com/firecomputer/LaLaTalk/raw/main/1.1.0/lalatalk_setup.msi)
+[recent_release(1.0.0)](https://github.com/firecomputer/LaLaTalk/raw/main/1.0.0/lalatalk_setup.msi)
 
 ## Features
 - Simple server is available for free
